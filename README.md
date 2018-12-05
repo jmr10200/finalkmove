@@ -1,6 +1,6 @@
 <h2> ● JSP_Phonebookの説明 </h2>
 - JSPで製作した電話帳 <br>
-<a href="https://youtu.be/HAEjYkYyoXk">- 試演映像 Youtube</a><br>
+<a href="https://youtu.be/HAEjYkYyoXk">- 試演映像 Youtube (Click!)</a><br>
 <h2> ● K-Move SchoolのIT授業内容 </h2>
 <table>
 <tr>
