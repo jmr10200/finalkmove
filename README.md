@@ -10,7 +10,7 @@
 - Tool :  Eclips, Apache Tomcat v8.5, JAVA, Oracle, JSP, HTML, CSS, jQuery<br>
 <a href="https://youtu.be/LOirlQATfdo">- 試演映像 Youtube (Click!)</a><br>
 <a href="https://github.com/jmr10200/soldoutpro/tree/master/soldout3">- Code (Click!!) </a><br>
-<h1>始まりは'main_plus_login.jsp'にしてください。</h1>
+<h4>始まりは'main_plus_login.jsp'にしてください。</h4>
 
 
 	
