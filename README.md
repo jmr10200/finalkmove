@@ -1,7 +1,7 @@
 <h2> ● JSP_Phonebookの説明 </h2>
 - JSPで製作した電話帳 <br>
 <a href="https://youtu.be/HAEjYkYyoXk">- 試演映像 Youtube (Click!)</a><br>
-<a href="https://github.com/jmr10200/finalkmove/tree/master/JSP_Phonebook3"> Code (Click!!) </a><br>
+<a href="https://github.com/jmr10200/finalkmove/tree/master/JSP_Phonebook3">- Code (Click!!) </a><br>
 
 
 <h2> ● Sold Outの説明 </h2>
