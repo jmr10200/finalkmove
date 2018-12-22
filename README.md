@@ -1,13 +1,13 @@
 <h2> ● JSP_Phonebookの説明 </h2>
 - JSPで製作した電話帳 <br>
-- Tool :  Eclips, Apache Tomcat v8.5, JAVA, Oracle, JSP<br>
+- Tool :  Eclipse, Apache Tomcat v8.5, JAVA, Oracle, JSP<br>
 <a href="https://youtu.be/HAEjYkYyoXk">- 試演映像 Youtube (Click!)</a><br>
 <a href="https://github.com/jmr10200/finalkmove/tree/master/JSP_Phonebook3">- Code (Click!!) </a><br>
 
 
 <h2> ● Sold Outの説明 </h2>
 - 中古品の 売買ページ <br>
-- Tool :  Eclips, Apache Tomcat v8.5, JAVA, Oracle, JSP, HTML, CSS, jQuery<br>
+- Tool :  Eclipse, Apache Tomcat v8.5, JAVA, Oracle, JSP, HTML, CSS, jQuery<br>
 <a href="https://youtu.be/LOirlQATfdo">- 試演映像 Youtube (Click!)</a><br>
 <a href="https://github.com/jmr10200/soldoutpro/tree/master/soldout3">- Code (Click!!) </a><br>
 <b> ** 始まりは'main_plus_login.jsp'にしてください。</b>
